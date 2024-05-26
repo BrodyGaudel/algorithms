@@ -1,0 +1,3 @@
+C:/Users/princ/Documents/workspace/algorithms/td2/excercice10/cmake-build-debug/CMakeFiles/excercice10.dir
+C:/Users/princ/Documents/workspace/algorithms/td2/excercice10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/princ/Documents/workspace/algorithms/td2/excercice10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
